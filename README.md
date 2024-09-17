@@ -9,7 +9,7 @@ I'm a **Cybersecurity Specialist**, **Web Developer**, and **AI Enthusiast** wit
 
 ## 🚀 Key Projects:
 
-### [OttoPortfolio](https://ottoportfolio.anvil.app/)
+### [OttoPortfolio](https://otto-portfolio.com/)
 My personal virtual portfolio showcasing:
 - Detailed information about my **career**, **projects**, and **skills**.
 - A **personal CTF** designed for users to test their cybersecurity knowledge.
