@@ -21,12 +21,12 @@ A professional, secure, and responsive website developed for **Otto & Associates
 - Integrated options for **appointments** and **contacting the agency**.
 - A protected **agent portal** for administrative use, offering content customization, appointment management, and user feedback.
 
-### [OttoFitness – Personal Fitness App](https://ottofitness.anvil.app/)
+### [OttoFitness – Personal Fitness App](https://otto-fitness.vercel.app/)
 A mobile-optimized fitness application designed for **Soldier physical fitness training**, featuring:
 - A **plate calculator** for calculating weight distribution.
 - A **weight tracker** to do plate math.
 - **Custom workout plans** based on user capabilities.
-- Created primarily using **Python** and enhanced by the **anvil.extras** library.
+- Created primarily for personal use.
 
 ### [Youth Cyber Program Website](https://youth-cyber-website.vercel.app/)
 A modular website for a volunteer afterschool program focused on teaching middle school students cyber skills. Key features include:
