@@ -28,7 +28,7 @@ A mobile-optimized fitness application designed for **Soldier physical fitness t
 - **Custom workout plans** based on user capabilities.
 - Created primarily using **Python** and enhanced by the **anvil.extras** library.
 
-### [Youth Cyber Program Website](https://cyber-afterschool.anvil.app/)
+### [Youth Cyber Program Website](youth-cyber-website.vercel.app)
 A modular website for a volunteer afterschool program focused on teaching middle school students cyber skills. Key features include:
 - Projects like an **AI face scanning and mapping application** using **TensorFlow's BlazeFace model**.
 - **Embedded applications from Scratch.mit.edu** for learning coding basics.
